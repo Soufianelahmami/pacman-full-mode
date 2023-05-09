@@ -42,14 +42,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"helper mod 1","desc":"Pac-Man is an iconic arcade game that was first released in Japan in 1980. The game quickly became a global sensation and is still popular to this day. ","photo":"https://iili.io/HU3B5Rs.webp"},
+  {"title":"tips pack ","desc":"Over the years, there have been many different versions of Pac-Man released, including full mods that add new features and gameplay mechanics.","photo":"https://iili.io/HU3BYbf.jpg"},
+  {"title":"how to use this app 3","desc":"A full mod of Pac-Man typically adds new levels, power-ups, and enemies to the game. These mods are created by independent developers and are usually free to download and play. Some mods even allow players to create their own levels and share them with others.","photo":"https://iili.io/HU3B7OG.webp"},
+  {"title":"advice mod 4","desc":"One of the most popular Pac-Man mods is Pac-Mania. This mod was released in 1987 and introduced a new isometric perspective to the game. ","photo":"https://iili.io/HU3Bcx4.jpg"},
+  {"title":"helper pack 5","desc":"The gameplay remained largely the same, but the new perspective added a new level of challenge and depth to the game. Pac-Mania also added new power-ups, such as the ability to jump over obstacles and enemies.","photo":"https://iili.io/HU3BlWl.jpg"},
+  {"title":"advance mod 6","desc":"Another popular Pac-Man mod is Pac-Man Championship Edition. This mod was released in 2007 and completely revamped the gameplay of the original game. Instead of playing through a single level,","photo":"https://iili.io/HU3B0s2.jpg"},
+  {"title":"how to use this app 7","desc":"players must navigate through a series of interconnected mazes. The game also introduced a time limit, forcing players to complete each maze as quickly as possible. Pac-Man Championship Edition was praised for its fast-paced gameplay and modern graphics.","photo":"https://iili.io/HU3BG07.jpg"},
+  {"title":"tips pack 8","desc":"Pac-Man Battle Royale is another popular mod that adds a multiplayer component to the game. In this mod, four players compete against each other to see who can collect the most pellets and defeat the most ghosts. ","photo":"https://iili.io/HU3BYbf.jpg"}
    ]
  
 }
